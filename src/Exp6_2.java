@@ -14,6 +14,9 @@ public class Exp6_2 {
 				n = 3 * n + 1;
 			}
 		}
+	
+		 System.out.println("1 になるまでに" + step +"回の操作をしました"); 
+	
 	}
 
 }
